@@ -1,0 +1,44 @@
+
+body {background-color:rgb(69, 49, 70);}
+form {
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+
+    Font-size: 13px;
+    
+    Font-weight: 400;
+    
+    Line-height: 20px;
+    
+    color:rgb(230, 245, 242);}
+
+    .container{
+        display:flex;
+        flex-direction: column;
+        
+        align-content: space-between;
+        padding-left: 550px;
+        padding-right: 550px;
+        padding-top: 20px;
+    }
+    .styl{
+        background-color:rgb(37, 37, 55);
+        color:rgb(230, 245, 242); 
+        border-radius: 5px;
+        border-color: rgb(37, 37, 55);
+        height: 22px;
+    }
+    button{
+        width: 250px;
+        height: 30px;
+        background-color :rgb(37, 37, 55);
+        color:rgb(230, 245, 242); 
+        text-align: center;
+        font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+        text-align: center;
+        Font-size: 13px;
+        margin-top: 10px;
+        Font-weight: 400;
+        border-color: rgb(37, 37, 55);
+        Line-height: 20px;
+        border-radius: 5%;
+    }
